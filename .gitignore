@@ -1,0 +1,18 @@
+# C/C++ compiled files
+*.o
+*.a
+*.so
+
+# Log and temporary files
+*.log
+*.tmp
+core
+core.*
+
+# Build directories
+build/
+bin/
+obj/
+
+# VS Code configuration
+.vscode/
